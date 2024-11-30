@@ -1,1 +1,1 @@
-# online-voting-syatem
+# online-voting-system
